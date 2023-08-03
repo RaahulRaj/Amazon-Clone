@@ -22,14 +22,7 @@ Feel free to customize, modify, and build upon this project to enhance your HTML
 
 Contributions are welcome! If you find any issues or would like to improve the project, feel free to create a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-**Disclaimer:** This project is intended for educational purposes and to showcase HTML and CSS skills. It is not affiliated with Amazon or intended for commercial use.
-
-Enjoy exploring and learning from the Amazon Clone project! If you have any questions or feedback, please don't hesitate to contact me.
+ 
+Enjoy exploring and learning from the Amazon Clone Project If you have any questions or feedback, please don't hesitate to contact me.
 
 [Rahul Raj]
