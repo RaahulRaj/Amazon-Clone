@@ -1,6 +1,16 @@
 # Amazon Clone Project
 
 This project is an Amazon Clone built using HTML and CSS, aimed at showcasing foundational web development skills. It replicates the basic layout and styling of the Amazon website, providing a practical example of front-end development techniques.
+
+## Demo
+![Homepage](https://github.com/RaahulRaj/Amazon-Clone/assets/102645220/673f41ec-9ccb-4eb3-bb74-110548a0d4ca)
+
+![Homepage 1](https://github.com/RaahulRaj/Amazon-Clone/assets/102645220/451a569e-29ad-4bac-b30e-7e8a9590e63a)
+
+![Homepage 2](https://github.com/RaahulRaj/Amazon-Clone/assets/102645220/80a0c7c3-8e73-4934-8f2c-204674f1ea34)
+
+![Footer](https://github.com/RaahulRaj/Amazon-Clone/assets/102645220/dfda8b37-17f3-4461-82fe-1c1cf133b210)
+
  
 ## Features
 
