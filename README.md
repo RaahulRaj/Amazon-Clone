@@ -2,7 +2,7 @@
 
 This project is an Amazon Clone built using HTML and CSS, aimed at showcasing foundational web development skills. It replicates the basic layout and styling of the Amazon website, providing a practical example of front-end development techniques.
 
-##Technologies:
+## Technologies:
 HTML5
 CSS3
 CSS Animations
